@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Matt. I'm pretty much an insufferable podcast nerd. Which, by the transitive property, makes me a technology nerd. Yeah, those have a lot of overlap...except for the one-time _Serial_ fans. They're just missing so much!
 
-### More Information
+### Blagreel
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
++ [FiveThirtyEight](http://fivethirtyeight.com/) - Data for nerds
++ [The Upshot](http://www.nytimes.com/upshot/) - New York Times + analytical reasoning
++ [Freakonomics](http://freakonomics.com/blog/) - Is it cheating if it's the blog for a radio show?
++ [xkcd what if?](http://what-if.xkcd.com/) - Where a NASA roboticist answers questions from your inner 5-year-old
++ [Google Design](https://design.google.com/) - Case studies from a website with a billion users
