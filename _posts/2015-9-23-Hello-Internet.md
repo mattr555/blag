@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Review: Hello Internet
+title: "Review: Hello Internet"
 ---
 
 It seems fitting to start my blag adventure with how I started my podcast adventure in the first place: with [Hello Internet](http://www.hellointernet.fm/).
 
-![hi logo](http://static.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/52f20963e4b028d7d4c1f6d4/1391593828907/Hello%20Internet.003.png)
+<img src="http://static.squarespace.com/static/52d66949e4b0a8cec3bcdd46/t/52f20963e4b028d7d4c1f6d4/1391593828907/Hello%20Internet.003.png" width="100">
 
 I got into podcasting when I procured my trusty iPhone 5S at the beginning of Junior year. I quickly found that just browsing Wikipedia or whatever on the hour-long bus ride to school wasn't sufficient enough for entertainment, and sleeping just felt uncomfortable, especially when I knew I had a world of possibilities in my pocket. I also knew that I couldn't just watch videos or use a lot of data, and I wanted to be able to at least close my eyes to enjoy the entertainment.
 
